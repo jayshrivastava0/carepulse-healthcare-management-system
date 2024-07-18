@@ -22,7 +22,7 @@ export default function Home() {
             © July 2024 CarePulse. All fake rights reserved by Jay Shrivastava.
             </p>
             <Link href="/?admin=true" className="text-green-500">
-              Admin
+              "Admin"
             </Link>
           </div>
         </div>
