@@ -9,6 +9,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ### Home Page Demo
 
 
-[<img src="/Readme_assets/Thumbnail.png" width="50%">](/Readme_assets/Carepulse_Home_Page.mp4)
+[<img src="/Readme_assets/Thumbnail.png">](/Readme_assets/Carepulse_Home_Page.mp4)
 
 
