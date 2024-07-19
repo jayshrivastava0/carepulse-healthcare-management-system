@@ -6,6 +6,7 @@
     "dev": "nodemon --watch \"./**\" --ext \"js,jsx,ts,tsx\" --exec \"next dev\"",
     "build": "next build",
     "start": "next start",
+    "start-watch": "WATCHBACK_POLLING = true next start",
     "lint": "next lint"
   },
   "dependencies": {
@@ -20,6 +21,7 @@
     "react": "^18",
     "react-dom": "^18",
     "react-hook-form": "^7.52.1",
+    "react-phone-number-input": "^3.4.3",
     "tailwind-merge": "^2.4.0",
     "tailwindcss-animate": "^1.0.7",
     "zod": "^3.23.8"
